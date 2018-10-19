@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/minhtri/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.0.0.aar/c4138cd903f70e5c0cfafd7540311234/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/98fb635853efa05e420d91f06ed2ab95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/2fe835a3fd9ae4b95bb916132a2f88a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/28ea8200eb69977221bf35a664268915/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5b7704cc12307ac862337d4f86c5c59f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1791d60669a8597de6f5b865f77886f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/69e9aae12c1b5c7a01828074de860eb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/fe8d17f2682723cd5b89514400fd87a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c4a0a8116b6ea00f0fa77905272b5099/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a20afc05b982f11207f1dbeb7a522729/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49893835d064395f42d3e441c9d1ce3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/451fb5ac8d8189924524d0b1ecda7fa5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/minhtri/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/0349f0c78f055f52335c89b71b5fe6e0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:19:5-47
+	android:versionName
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:25:5-37:19
+	android:label
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:25:18-44
+	android:theme
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:31:19-51
+	android:name
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:30:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/minhtri/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.0.0.aar/c4138cd903f70e5c0cfafd7540311234/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/minhtri/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.0.0.aar/c4138cd903f70e5c0cfafd7540311234/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/98fb635853efa05e420d91f06ed2ab95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/98fb635853efa05e420d91f06ed2ab95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/2fe835a3fd9ae4b95bb916132a2f88a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/2fe835a3fd9ae4b95bb916132a2f88a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/28ea8200eb69977221bf35a664268915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/28ea8200eb69977221bf35a664268915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5b7704cc12307ac862337d4f86c5c59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5b7704cc12307ac862337d4f86c5c59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1791d60669a8597de6f5b865f77886f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1791d60669a8597de6f5b865f77886f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/69e9aae12c1b5c7a01828074de860eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/69e9aae12c1b5c7a01828074de860eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/fe8d17f2682723cd5b89514400fd87a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/fe8d17f2682723cd5b89514400fd87a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c4a0a8116b6ea00f0fa77905272b5099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c4a0a8116b6ea00f0fa77905272b5099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a20afc05b982f11207f1dbeb7a522729/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a20afc05b982f11207f1dbeb7a522729/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49893835d064395f42d3e441c9d1ce3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49893835d064395f42d3e441c9d1ce3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/451fb5ac8d8189924524d0b1ecda7fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/minhtri/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/451fb5ac8d8189924524d0b1ecda7fa5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/minhtri/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/0349f0c78f055f52335c89b71b5fe6e0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/minhtri/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/0349f0c78f055f52335c89b71b5fe6e0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+		ADDED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/minhtri/AndroidStudioProjects/mau android/android-RecyclerView/Application/src/main/AndroidManifest.xml
